@@ -1,0 +1,5 @@
+- 👋 Hi, I’m  Gabriela  Melo
+- 👀 I’m interested in  aprender  e criar  experiencias na área de programação. 
+- 🌱 I’m currently learning  Python, sobre o mundo  da programação e suas áreas.
+- 💞️ I’m looking to collaborate  com o  mundo da tecnologia.
+- 📫 How to reach me  por e- mail (vgmdasilva@hotmail.com)
