@@ -1,7 +1,6 @@
 ## Olá! Meu nome é Gabriela Melo e sou uma desenvolvedora em treinamento 💻!
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vgabrielamelo/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ### Tecnologias que eu estou aprendendo a desenvolver
 
